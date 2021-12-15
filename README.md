@@ -1,6 +1,8 @@
 # Hackaton reto de innovación
 ## Triadatech
 
+![alt text](image/imagen.png "Get On Board")
+
 Decidimos presentar como propuesta la plataforma en versión App ya que observamos que no poseen una.
 Realizamos un benchmarking con empresas como LinkedIn, Jobfluent, twago, anyworkanywhere y flexjobs entre otras plataformas de búsqueda de empleo.
 
