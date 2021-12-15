@@ -40,3 +40,6 @@ Muchas personas ya no sólo deciden postular a un empleo por los beneficios mone
 ## Link del proyecto:
 [Ver el proyecto](https://www.figma.com/file/PFO4NKzvKQSdZIPwvtPKlp/Reto---Hackaton?node-id=474%3A3562)
 
+## Video de demostración:
+[Ver el video](https://www.youtube.com/watch?v=8V76ZclRWTk)
+
